@@ -1,9 +1,8 @@
 ## GoblinGummy
+### Trabalhando nesse projeto: Arthur Fernandes Rodrigues, Giovanna Aguiar Vaz e Yasmin Farias Soares
  Projeto SENAI
 ![GoblinGummy](https://github.com/user-attachments/assets/f805dafd-8227-4f42-b565-f6fde20066c9)
 ![GoblinGummy 2](https://github.com/user-attachments/assets/fefd0617-d068-4646-9ce7-f3083214ea61)
-
-Trabalhando nesse projeto: Arthur Fernandes Rodrigues, Giovanna Aguiar Vaz e Yasmin Farias Soares
 
 A Goblin Gummy é uma ideia elaborada por mim, Arthur Fernandes, Giovanna Vaz e Yasmin Farias. Nossa proposta consiste em uma bala energética saudável, prática e barata, para aumentar o desempenho de estudantes, trabalhadores e de pessoas que pratiquem atividades físicas.
 
