@@ -1,0 +1,71 @@
+@font-face {
+    font-family: GoblinGummy;
+    src: url(../fonts/GhoulFriAOE.ttf);
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: rgb(229, 227, 227);
+}
+
+header{
+    font-family: GoblinGummy, 'Times New Roman';
+    height: 100px;
+    background-color: rgb(3,155,82) ;
+    display: flex;
+    flex-direction: row;
+}
+
+#marca{
+    line-height: 90px;
+}
+
+nav{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    gap: 20px;
+}
+
+a{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+
+a img{
+    width: 100px;
+}
+
+#headerEsquerda{
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+}
+
+#headerEsquerda img{
+    width: 100px;
+}
+
+#headerDireita{
+    padding: 0px 20px 0px 0px;
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+}
+
+#iconeClicavel img{
+    width: 50px;
+    height: auto;
+}
+
+button{
+    background-color: rgb(3,155,82);
+    border: none;
+}
