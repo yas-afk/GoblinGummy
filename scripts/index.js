@@ -22,3 +22,22 @@ function carregarCatalogo(){
 }
 
 carregarCatalogo()
+
+function carregarInfluencers(){
+    var influencers = [
+        ["/images/influencers/GabiCattuzo.jpg", "Gabi Cattuzzo"],
+    ]
+    influencers.forEach(cadaInfluencer =>{
+        document.querySelector('.carousel-inner').innerHTML += `
+        <div class="carousel-item">
+            <img src="${cadaInfluencer[0]}" class="d-block w-100" alt="...">
+            <div class="carousel-caption d-none d-md-block">
+                <h5>${cadaInfluencer[1]}</h5>
+            </div>
+        </div>
+        `
+
+    })
+}
+
+carregarInfluencers()

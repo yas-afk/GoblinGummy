@@ -26,9 +26,26 @@
     border-radius: 10px;
     width: 50%;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     background-color: turquoise;
     justify-content: center;
+    align-items: center;
+}
+
+#influencer{
+    width: 90%;
+    height: 90%;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#influencer img{
+    border-radius: 10px;
+    width: 600px;
 }
 
 .produto{
