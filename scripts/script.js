@@ -1,13 +1,13 @@
 //menu() para abrir a aba ao clicar no icone de menus
 
-function menuItens(){
-    var menu = document.querySelector('#menu')
+// function menuItens(){
+//     var menu = document.querySelector('#menu')
 
-    if (menu.style.display == 'none'){
-        menu.style.display = 'flex'
-    }else{
-        menu.style.display = 'none'
-    }
+//     if (menu.style.display == 'none'){
+//         menu.style.display = 'flex'
+//     }else{
+//         menu.style.display = 'none'
+//     }
 
 
 
@@ -23,5 +23,5 @@ function menuItens(){
     //         </a>
     //     </nav>
     // `
-}
+//}
 
